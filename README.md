@@ -20,3 +20,10 @@ Hands-on Python Data Science Bootcamp covering data analysis, visualization, and
 ##  Author
 Tahereh Parnian  
 MSc Economics – Data Science Focus
+
+## Certificate
+
+Hands On Python Data Science – Data Science Bootcamp  
+Instructor: Sayman Creative Institute  
+Completed: Feb 23, 2026  
+[View Certificate](Udemy-Python.pdf)
